@@ -1,4 +1,4 @@
-const proxy = "https://proxy.techzbots1.workers.dev/?u=";
+const proxy = "https://proxy.anixer42.workers.dev/?u=";
 const searchapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/search/";
 
 // Usefull functions
