@@ -1,6 +1,6 @@
 // Api urls
 
-const proxy = "https://proxy.techzbots1.workers.dev/?u=";
+const proxy = "https://proxy.anixer42.workers.dev/?u=";
 const IndexApi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/home";
 const recentapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/recent/";
 
