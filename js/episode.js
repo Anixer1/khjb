@@ -1,4 +1,4 @@
-const proxy = "https://proxy.techzbots1.workers.dev/?u=";
+const proxy = "https://proxy.anixer42.workers.dev/?u=";
 const animeapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/anime/";
 const episodeapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/episode/";
 const dlapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/download/";
