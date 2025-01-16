@@ -1,8 +1,8 @@
 // Api urls
 
 const proxy = "https://proxy.anixer42.workers.dev/?u=";
-const animeapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/anime/";
-const recommendationsapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/recommendations/";
+const animeapi = "https://api.amirwopi.workers.dev/anime/";
+const recommendationsapi = "https://api.amirwopi.workers.dev/recommendations/";
 
 // Usefull functions
 
