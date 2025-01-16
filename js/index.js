@@ -1,8 +1,8 @@
 // Api urls
 
 const proxy = "https://proxy.techzbots1.workers.dev/?u=";
-const IndexApi = "https://api.anime-dex.workers.dev/home";
-const recentapi = "https://api.anime-dex.workers.dev/recent/";
+const IndexApi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/home";
+const recentapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/recent/";
 
 // Usefull functions
 
