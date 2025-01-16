@@ -1,6 +1,6 @@
 // Api urls
 
-const proxy = "https://proxy.techzbots1.whttps://proxy.techzbots1.workers.dev/?u=orkers.dev/?u=";
+const proxy = "https://proxy.anixer42.workers.dev/?u=";
 const animeapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/anime/";
 const recommendationsapi = "https://ab-stream-apiv2.abrahamdw882.workers.dev/recommendations/";
 
